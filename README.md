@@ -96,8 +96,8 @@
     <header>
         <div class="header-content">
             <!-- Profile Picture (Now Visible) -->
-            <img src="Varalakshmi passport.jpg" alt="My Profile Picture" class="profile-picture">
-            <h1>Ashiga.S.B.Shiv</h1>
+            <img src="Varalakshmi WhatsApp Image 2023-12-08 at 11.25.14_c3966450.jpg" alt="My Profile Picture" class="profile-picture">
+            <h1>R.Varalakshmi</h1>
             <p>Aspiring Computer Applications Student</p>
         </div>
     </header>
