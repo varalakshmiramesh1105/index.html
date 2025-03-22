@@ -145,7 +145,7 @@
         <div class="section-content">
             <h2>Projects</h2>
             <li><a href="Internship report.pdf" target="_blank" class="download-button">View My Certificate</a></li>
-            <li><a href="Data science.pdf" target="_blank" class="download-button">View My Certificate</a></li>
+            <li><a href="Instership report 2.pdf" target="_blank" class="download-button">View My Certificate</a></li>
             <li><a href="Software engineering.pdf" target="_blank" class="download-button">View My Certificate</a></li>
             <li><a href="data analytics.pdf" target="_blank" class="download-button">View My Certificate</a></li>
             
@@ -163,7 +163,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2025 Ashiga.S.B.Shiv</p>
+        <p>&copy; 2025 R.Varalakshmi</p>
     </footer>
 
     <script>
