@@ -146,9 +146,7 @@
             <h2>Projects</h2>
             <li><a href="Internship report.pdf" target="_blank" class="download-button">View My Certificate</a></li>
             <li><a href="Instership report 2.pdf" target="_blank" class="download-button">View My Certificate</a></li>
-            <li><a href="Software engineering.pdf" target="_blank" class="download-button">View My Certificate</a></li>
-            <li><a href="data analytics.pdf" target="_blank" class="download-button">View My Certificate</a></li>
-            
+
             </ul>
         </div>
     </section>
@@ -157,7 +155,7 @@
         <div class="section-content">
             <center>
                 <h2>Resume</h2>
-                <a href="https://github.com/AshigaShiv/Portfolio/blob/main/Ashigaresume.pdf" target="_blank" class="download-button">Download CV</a>
+                <a href="varalakshmi resume.pdf" target="_blank" class="download-button">Download CV</a>
             </center>
         </div>
     </section>
