@@ -144,7 +144,7 @@
     <section id="projects">
         <div class="section-content">
             <h2>Projects</h2>
-            <li><a href="BCG.pdf" target="_blank" class="download-button">View My Certificate</a></li>
+            <li><a href="Internship report.pdf" target="_blank" class="download-button">View My Certificate</a></li>
             <li><a href="Data science.pdf" target="_blank" class="download-button">View My Certificate</a></li>
             <li><a href="Software engineering.pdf" target="_blank" class="download-button">View My Certificate</a></li>
             <li><a href="data analytics.pdf" target="_blank" class="download-button">View My Certificate</a></li>
